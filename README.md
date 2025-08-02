@@ -12,9 +12,9 @@
 
 | Proyecto | Descripción | Repositorio |
 |---------|-------------|-------------|
-| 🃏 Juego de cartas 500 | Proyecto de lógica y dinámica de turnos | [Ver en GitHub](https://github.com/jonatanguzman/TP_Labo_500) |
-| 📋 Reclamos Lab 3 | App web de gestión de reclamos en call center | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab3) |
 | 🏦 Integrador Lab 4 | Sistema de home banking con gestión de cuentas, préstamos y transferencias | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab4) |
+| 📋 Reclamos Lab 3 | App web de gestión de reclamos en call center | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab3) |
+| 🃏 Juego de cartas 500 | Proyecto de lógica y dinámica de turnos | [Ver en GitHub](https://github.com/jonatanguzman/TP_Labo_500) |
 
 
 ---
