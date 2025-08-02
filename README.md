@@ -41,8 +41,8 @@
 
 ## 📫 Contacto
 
-- 📧 **jonatanguzman2712v@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jonatan-guzman-703509317/)
+- 📧 **jonatanguzman2712@gmail.com**
+- 🌐 [Linkedin](https://www.linkedin.com/in/jonatan-guzman-703509317/)
 - 💼 ¡Siempre abierto a nuevas oportunidades de aprendizaje!
 
 ---
