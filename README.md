@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jonatan Guzman
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Soy estudiante de la **Tecnicatura en Programación (UTN)**, con entusiasmo por crear soluciones web, trabajar en equipo y seguir aprendiendo cada día.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Soy estudiante de la Tecnicatura en Programación en la UTN, con gran interés por el desarrollo web y backend. Me entusiasma crear soluciones eficientes, trabajar en equipo y seguir aprendiendo tecnologías que potencien la calidad del software.
 
 - 🎯 Enfoque actual: desarrollo full stack (Java, JSP, C#, SQL)
 - 👨‍💻 Experiencia académica en proyectos colaborativos
