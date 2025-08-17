@@ -13,7 +13,7 @@
 | Proyecto | Descripción | Repositorio |
 |---------|-------------|-------------|
 | 🏦 Sistema Bancario | Sistema de home banking con gestión de cuentas, préstamos y transferencias | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab4) |
-| 📞 Call Center | App web de gestión de reclamos en call center | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab3) |
+| 📝​ Gestion de Reclamos | App web de gestión de reclamos en call center | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab3) |
 | 🧮 Proyecto Lab 2 | Desarrollo en consola orientado a estructuras de datos y lógica algorítmica | [Ver en GitHub](https://github.com/jonatanguzman/ProyectoLab2) |
 | 🃏 Juego de cartas 500 | Proyecto de lógica y dinámica de turnos | [Ver en GitHub](https://github.com/jonatanguzman/TP_Labo_500) |
 
