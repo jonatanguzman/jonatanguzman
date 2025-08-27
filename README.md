@@ -15,7 +15,6 @@
 | 🏦 Sistema Bancario | Sistema de home banking con gestión de cuentas, préstamos y transferencias | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab4) |
 | 📝​ Gestión de Reclamos | App web de gestión de reclamos en call center | [Ver en GitHub](https://github.com/jonatanguzman/TPintegradorLab3) |
 | 🧮 Gestión de Consecionaria | App de escritorio para gestionar stock de vehículos, clientes y ventas. | [Ver en GitHub](https://github.com/jonatanguzman/ProyectoLab2) 
-| 🃏 Juego de cartas 500 | Proyecto de lógica y dinámica de turnos | [Ver en GitHub](https://github.com/jonatanguzman/TP_Labo_500) |
 
 
 ---
