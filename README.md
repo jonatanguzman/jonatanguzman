@@ -1,12 +1,19 @@
 # 👋 ¡Hola! Soy Jonatan Guzman
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Soy **Técnico en Programación egresado de la UTN**, con interés en el desarrollo de software, bases de datos y análisis de datos. 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-Me motiva crear soluciones eficientes mediante programación y el uso de datos para optimizar procesos y resolver problemas reales. En este repositorio comparto proyectos desarrollados durante mi formación y proyectos personales.
+🎓 **Técnico en Programación egresado de la UTN** con interés en el desarrollo de software, bases de datos y análisis de datos.
 
-- 🎯 Enfoque actual: desarrollo de software y análisis de datos  
-- 👨‍💻 Experiencia académica en proyectos colaborativos
-- 🚀 Actualmente aprendiendo Power BI y visualización de datos
+Me motiva crear soluciones eficientes mediante programación y el uso de datos para optimizar procesos y resolver problemas reales. En este repositorio comparto proyectos desarrollados durante mi formación académica y proyectos personales.
+
+---
+
+## 🎯 Enfoque Actual
+
+- 💻 Desarrollo de software (Java, C#, .NET)
+- 🗄 Manejo y consultas de bases de datos con SQL
+- 📊 Aprendiendo **Power BI y análisis de datos**
+- 🚀 Interés en optimización de procesos mediante tecnología
 
 ---
 
@@ -23,13 +30,24 @@ Me motiva crear soluciones eficientes mediante programación y el uso de datos p
 
 ## 🛠 Tecnologías
 
+### 💻 Lenguajes y Desarrollo
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL--Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🗄 Bases de Datos
+
+![SQL Server](https://img.shields.io/badge/-SQL--Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### 📊 Análisis de Datos
+
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### 🧰 Herramientas
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -44,8 +62,11 @@ Me motiva crear soluciones eficientes mediante programación y el uso de datos p
 
 ## 📫 Contacto
 
-- 📧 **jonatanguzman2712@gmail.com**
-- 🌐 [Linkedin](https://www.linkedin.com/in/jonatan-guzman-703509317/)
-- 💼 ¡Siempre abierto a nuevas oportunidades de aprendizaje!
+📧 **jonatanguzman2712@gmail.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/jonatan-guzman/
+
+🚀 Siempre abierto a nuevas oportunidades para seguir aprendiendo y desarrollando soluciones tecnológicas.
 
 ---
